@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif" width="300">
   <h1 align="center">Hello everyone, I'm AND3SIL4</h1>
   <h3 align="center">A passionate web developer from Colombia.</h3>
 </div>
@@ -52,7 +52,7 @@
   
 </div>
 
-<div align="center">
+<div align="center" width="100">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AND3SIL4&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AND3SIL4&show_icons=true&theme=graywhite)
