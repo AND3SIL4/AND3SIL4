@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif" width="300">
   <h1 align="center">Hi, I'm AND3SIL4</h1>
-  <h3 align="center">A passionate web developer from Colombia.</h3>
+  <h3 align="center">A passionate web developer based in Colombia.</h3>
 </div>
 <div id="badges" align="center">
   <a href="">
