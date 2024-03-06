@@ -1,22 +1,22 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif" width="300">
-  <h1 align="center">Hi, I'm AND3SIL4</h1>
-  <h3 align="center">A passionate web developer based in Colombia.</h3>
+  <img src="https://github.com/AND3SIL4/images/blob/main/wallpapers/recortada.jpeg?raw=true" style="width:100%;">
 </div>
-<div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/twitter/url?label=gmail&logo=gmail&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="gmail-badge">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/twitter/url?label=facebook&logo=facebook&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="facebook-badge">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="twitter-badge">
-  </a>
-  <a href="">
+
+<div id="badges" align="start" style="margin:30px">
+  <a href="https://github.com/and3sil4">
     <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="linkedin-badge">
   </a>
+  <a href="mailto:and3felipe@gmail.com">
+    <img src="https://img.shields.io/twitter/url?label=gmail&logo=gmail&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="gmail-badge">
+  </a>
+  <a href="https://twitter.com/AFelipe_Silva3">
+    <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="twitter-badge">
+  </a>
+  <a href="https://medium.com/@and3felipe">
+    <img src="https://img.shields.io/twitter/url?label=medium&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="medium-badge">
+  </a>
 </div>
+
 
 <div class="icons" align="center">
   <h3>Languages and tools</h3>
@@ -61,5 +61,5 @@
 
 
 
-
+  <h2 align="center">A passionate web developer based in Colombia.</h2>
 
