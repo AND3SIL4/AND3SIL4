@@ -17,6 +17,8 @@
   </a>
 </div>
 
+<br/>
+
 <div>
   <h3> 
     Software developer based in Bogotá D.C. - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate.
@@ -79,7 +81,7 @@
 
 <div align="center">
   
-  **[Credits: JayantGoel001](https://github.com/JayantGoel001)** | **Last edited on: March 6th - 2024** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)**
+  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - March 6th 2024** 
   
 </div>
 
