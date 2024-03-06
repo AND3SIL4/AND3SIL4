@@ -49,25 +49,19 @@
 </div>
 
 <div class="icons" align="center">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" title="javascript" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="python" title="python" width=60px> 
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dart.svg" alt="dart" title="dart" width=60px> 
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt="git" title="git" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" alt="html5" title="html5" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/css3.svg" alt="css3" title="css3" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg" alt="bootstrap" title="bootstrap" width=60px>  
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" title="javascript" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" title="react" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/angular_simple.svg" alt="angular" title="angular" width=60px>  
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/django.svg" alt="django" title="django" width=60px>  
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" alt="mysql" title="mysql" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/markdown.svg" alt="markdown" title="markdown" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongodb" title="mongodb" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="docker" title="docker" width=60px>    
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/vim.svg" alt="vim" title="vim" width=60px>  
   <img src="https://github.com/AND3SIL4/images/blob/main/icons/astro.svg" alt="astro" title="astro" width=40px> 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" alt="python" title="python" width=60px> 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/django.svg" alt="django" title="django" width=60px>  
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dart.svg" alt="dart" title="dart" width=60px> 
   <img src="https://github.com/AND3SIL4/images/blob/main/icons/flutter.svg" alt="flutter" title="flutter" width=40px> 
-  <img src="https://github.com/AND3SIL4/images/blob/main/icons/google-idx.svg" alt="google-idx" title="google-idx" width=60px> 
-  <img src="https://github.com/AND3SIL4/images/blob/main/icons/netlify.svg" alt="netlify" title="netlify" width=60px> 
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" alt="mysql" title="mysql" width=60px>
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" alt="docker" title="docker" width=60px>    
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg" alt="bootstrap" title="bootstrap" width=60px>  
   <img src="https://github.com/AND3SIL4/images/blob/main/icons/tailwindcss.svg" alt="tailwindcss" title="tailwindcss" width=60px> 
 </div>
 
