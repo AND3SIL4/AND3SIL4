@@ -50,7 +50,6 @@
 
 <div class="icons" align="center">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" alt="html5" title="html5" width=60px>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/css3.svg" alt="css3" title="css3" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" title="javascript" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" title="react" width=60px>
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/angular_simple.svg" alt="angular" title="angular" width=60px>  
