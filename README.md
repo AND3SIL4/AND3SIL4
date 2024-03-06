@@ -26,7 +26,7 @@
 <br/>
 
 <div>
-  <h2>Technical statistics and information</h2>
+  <h2>Github metrics and information</h2>
 </div>
 
 <!--- trophy (start) -->
@@ -82,14 +82,21 @@
 </div>
 
 <div>
-  <h2>Other info</h2>
+  <h2>Spotify section</h2>
 </div>
 
+<!-- Spotify -->  
+
+<img align="right" alt="GIF" height="470px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&redirect=true)
+
+<!-- Footer -->  
+<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp" alt="footer" title="footer" width=100%> 
+
+<div align="center">
   
+  **[Credits: JayantGoel001](https://github.com/JayantGoel001)** | **Last edited on: March 6th - 2024** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)**
+  
+</div>
 
-
-
-
-
-
-https://next.ossinsight.io/widgets
