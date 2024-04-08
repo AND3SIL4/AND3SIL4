@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/AND3SIL4/images/blob/main/wallpapers/recortada.jpeg?raw=true" style="width:100%;">
+  <a href="https://linkedin/in/and3sil4">
+    <img src="https://github.com/AND3SIL4/images/blob/main/wallpapers/recortada.jpeg?raw=true" style="width:100%;">
+  </a>
 </div>
 
 <div id="badges" align="start" style="margin:30px">
