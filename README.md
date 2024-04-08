@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://linkedin.com/in/and3sil4">
+  <a href="https://www.linkedin.com/in/and3sil4/">
     <img src="https://github.com/AND3SIL4/images/blob/main/wallpapers/recortada.jpeg?raw=true" style="width:100%;">
   </a>
 </div>
