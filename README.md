@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="start" style="margin:30px">
-  <a href="https://github.com/and3sil4">
+  <a href="https://www.linkedin.com/in/and3sil4/">
     <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="linkedin-badge">
   </a>
   <a href="mailto:and3felipe@gmail.com">
