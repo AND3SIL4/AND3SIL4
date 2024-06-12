@@ -67,23 +67,24 @@
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/bootstrap.svg" alt="bootstrap" title="bootstrap" width=60px>  
   <img src="https://github.com/AND3SIL4/images/blob/main/icons/tailwindcss.svg" alt="tailwindcss" title="tailwindcss" width=60px> 
 </div>
-
+<!--
 <div>
   <h2>Spotify section</h2>
-</div>
+</div> 
+-->
 
 <!-- Spotify -->  
 
-<img align="right" alt="GIF" height="470px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="470px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31w5sosmgv723nnv5ctf6ayowpe4&redirect=true) -->
 
 <!-- Footer -->  
 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp" alt="footer" title="footer" width=100%> 
 
 <div align="center">
   
-  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - March 6th 2024** 
+  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - June 11th 2024** 
   
 </div>
 
