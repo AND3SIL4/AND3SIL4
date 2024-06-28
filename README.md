@@ -23,7 +23,10 @@
 
 <div>
   <h3> 
-    Software developer based in Bogotá D.C. - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate.
+    Intelligent automation developer & analyst | RPA developer 
+  </h3>
+  <h3> 
+    Currently I am based in Bogotá D.C - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate with awesome teams.
   </h3>
 </div>
 
