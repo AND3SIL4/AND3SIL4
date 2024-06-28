@@ -30,15 +30,15 @@
 <br/>
 
 <div>
-  <h2>Github metrics and information</h2>
+  <h2>Github metrics</h2>
 </div>
 
 <!--- trophy (start) -->
-<div align=center>
+<!-- <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=and3sil4&theme=graywhite&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</div> -->
 <!--- trophy (start) -->
 
 <div align="center" width="100">
@@ -84,7 +84,7 @@
 
 <div align="center">
   
-  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - June 11th 2024** 
+  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - June 27 2024** 
   
 </div>
 
