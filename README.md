@@ -1,13 +1,34 @@
-<div>
-  <h2> 
-    Intelligent automation developer & analyst | RPA developer 
-  </h2>
-  <h2> 
-    I am based in Bogotá D.C - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate with awesome teams.
-  </h2>
-</div>
+👋 Hello, I'm Felipe Silva
 
-<br/>
+💼 Intelligent Automation Developer & Analyst | RPA Developer
+
+🌎 Based in Bogotá D.C., Colombia
+
+I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
+
+🚀 What I do:
+
+Develop and implement RPA solutions
+Create efficient and scalable web applications
+Analyze business processes to identify automation opportunities
+Collaborate with cross-functional teams to deliver high-impact projects
+
+💡 My skills:
+
+- RPA platforms
+- Programming languages
+- Web development
+- Database management
+- Version control
+
+🌱 Always learning:
+
+I'm continuously expanding my skill set and staying up-to-date with the latest trends in automation and web technologies.
+
+🤝 Let's connect:
+
+I'm always eager to take on new challenges and collaborate with awesome teams. If you're working on exciting projects or just want to chat about technology, feel free to reach out!
+[Include links to your LinkedIn, Twitter, or other professional social media profiles]
 
 <div id="badges" align="start" style="margin:30px">
   <a href="https://www.linkedin.com/in/and3sil4/">
@@ -24,9 +45,13 @@
   </a>
 </div>
 
+"The only way to do great work is to love what you do." - Steve Jobs
+
+<br/>
+
 <div align="start">
   
-  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - June 27 2024** 
+  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - Agust 30 2024** 
   
 </div>
 
