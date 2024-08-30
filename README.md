@@ -1,8 +1,13 @@
-<div id="header" align="center">
-  <a href="https://www.linkedin.com/in/and3sil4/">
-    <img src="https://github.com/AND3SIL4/images/blob/main/wallpapers/recortada.jpeg?raw=true" style="width:100%;">
-  </a>
+<div>
+  <h3> 
+    Intelligent automation developer & analyst | RPA developer 
+  </h3>
+  <h3> 
+    I am based in Bogotá D.C - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate with awesome teams.
+  </h3>
 </div>
+
+<br/>
 
 <div id="badges" align="start" style="margin:30px">
   <a href="https://www.linkedin.com/in/and3sil4/">
@@ -17,17 +22,6 @@
   <a href="https://medium.com/@and3felipe">
     <img src="https://img.shields.io/twitter/url?label=medium&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="medium-badge">
   </a>
-</div>
-
-<br/>
-
-<div>
-  <h3> 
-    Intelligent automation developer & analyst | RPA developer 
-  </h3>
-  <h3> 
-    Currently I am based in Bogotá D.C - Colombia, with a passion for learning new technologies and creating innovative solutions. I have experience in web development. I'm always eager to take on new challenges and collaborate with awesome teams.
-  </h3>
 </div>
 
 <br/>
