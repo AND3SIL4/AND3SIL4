@@ -28,13 +28,10 @@ I'm passionate about leveraging technology to create innovative solutions and st
 ---
 
 <div>
-  <h3>Languages and frameworks</h3>
+  <h3>Tech stack</h3>
 
-  [![Languages](https://skillicons.dev/icons?i=python,django,java,spring,javascript,nodejs,react,astro,tailwind,mysql,mongodb)](https://skillicons.dev)
+  [![Languages](https://skillicons.dev/icons?i=python,django,java,spring,javascript,nodejs,react,astro,tailwind,mysql,mongodb,postman,linux,windows,vim,powershell,git,gitlab,github,figma,docker,discord)](https://skillicons.dev)
 
-  <h3>Tools</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=postman,linux,windows,vim,powershell,git,gitlab,github,figma,docker,discord)](https://skillicons.dev)
 </div>
 
 ---
