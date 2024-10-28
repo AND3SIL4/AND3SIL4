@@ -8,6 +8,8 @@
 
 ---
 
+I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/and3sil4/">
     <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="linkedin-badge">
@@ -23,9 +25,6 @@
   </a>
 </div>
 
-
-I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
-
 <div>
   <h3>Languages and frameworks</h3>
 
@@ -34,6 +33,19 @@ I'm passionate about leveraging technology to create innovative solutions and st
   <h3>Tools</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=postman,linux,windows,vim,powershell,git,gitlab,github,figma,docker,discord)](https://skillicons.dev)
+</div>
+
+---
+
+<div align="start">
+
+  <a href="https://github.com/and3sil4/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=and3sil4" />
+  </a>
+  <a href="https://github.com/and3sil4/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=and3sil4&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
 </div>
 
 ---
