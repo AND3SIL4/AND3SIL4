@@ -1,36 +1,14 @@
-👋 Hello, I'm Felipe Silva
+<p>
+  
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=32&duration=2500&pause=1000&width=435&lines=Felipe+Silva;Intelligent+Automation;Developer+%26+Analyst)](https://git.io/typing-svg)
+   
+</p>
 
-💼 Intelligent Automation Developer & Analyst | RPA Developer
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
-🌎 Based in Bogotá D.C., Colombia
+---
 
-I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
-
-🚀 What I do:
-
-Develop and implement RPA solutions
-Create efficient and scalable web applications
-Analyze business processes to identify automation opportunities
-Collaborate with cross-functional teams to deliver high-impact projects
-
-💡 My skills:
-
-- RPA platforms
-- Programming languages
-- Web development
-- Database management
-- Version control
-
-🌱 Always learning:
-
-I'm continuously expanding my skill set and staying up-to-date with the latest trends in automation and web technologies.
-
-🤝 Let's connect:
-
-I'm always eager to take on new challenges and collaborate with awesome teams. If you're working on exciting projects or just want to chat about technology, feel free to reach out!
-[Include links to your LinkedIn, Twitter, or other professional social media profiles]
-
-<div id="badges" align="start" style="margin:30px">
+<div id="badges">
   <a href="https://www.linkedin.com/in/and3sil4/">
     <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="linkedin-badge">
   </a>
@@ -45,13 +23,24 @@ I'm always eager to take on new challenges and collaborate with awesome teams. I
   </a>
 </div>
 
-"The only way to do great work is to love what you do." - Steve Jobs
 
-<br/>
+I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
+
+<div>
+  <h3>Languages and frameworks</h3>
+
+  [![Languages](https://skillicons.dev/icons?i=python,django,java,spring,javascript,nodejs,react,astro,tailwind,mysql,mongodb)](https://skillicons.dev)
+
+  <h3>Tools</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=postman,linux,windows,vim,powershell,git,gitlab,github,figma,docker,discord)](https://skillicons.dev)
+</div>
+
+---
+
 
 <div align="start">
   
-  **[Credits to JayantGoel001](https://github.com/JayantGoel001)** | **[Stadistics from ossinsight](https://next.ossinsight.io/widgets)** | **[Spotify repo](https://github.com/kittinan/spotify-github-profile)**  |  **Last edited - Agust 30 2024** 
+   **Last edited - October 28 2024** 
   
 </div>
-
