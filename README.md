@@ -25,6 +25,8 @@ I'm passionate about leveraging technology to create innovative solutions and st
   </a>
 </div>
 
+---
+
 <div>
   <h3>Languages and frameworks</h3>
 
