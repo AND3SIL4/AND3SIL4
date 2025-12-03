@@ -39,15 +39,32 @@ I'm passionate about leveraging technology to create innovative solutions and st
 <div align="start">
 
   <a href="https://github.com/and3sil4/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=and3sil4" />
+    <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=and3sil4" />
   </a>
   <a href="https://github.com/and3sil4/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=and3sil4&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=and3sil4&layout=compact&langs_count=8&card_width=320" />
   </a>
 
 </div>
 
 ---
+
+<div>
+  <h3>Signature and style</h3>
+
+ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ:
+
+▄████▄ ███  ██ ████▄  ████▄ ▄█████ ██ ██    ██  ██ 
+██▄▄██ ██ ▀▄██ ██  ██  ▄▄██ ▀▀▀▄▄▄ ██ ██    ▀█████ 
+██  ██ ██   ██ ████▀  ▄▄▄█▀ █████▀ ██ ██████    ██ 
+
+ɪ ᴛʜɪɴᴋ, ᴛʜᴇʀᴇꜰᴏʀᴇ ɪ ᴀᴍ
+
+https://patorjk.com/software/taag/#p=display&f=ANSI+Compact&t=AND3SIL4&x=none&v=4&h=4&w=80&we=false
+
+</div>
+
+
 
 
 <div align="start">
