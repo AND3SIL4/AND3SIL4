@@ -36,6 +36,10 @@ I'm passionate about leveraging technology to create innovative solutions and st
 
 ---
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67466c605434bf319a392d0d?variant=dark&roadmaps=frontend%2Cpython%2Cgolang)](https://roadmap.sh)
+
+---
+
 <div align="start">
 
   <a href="https://github.com/and3sil4/github-readme-stats">
