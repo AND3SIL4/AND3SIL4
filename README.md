@@ -1,76 +1,42 @@
-<p>
-  
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=32&duration=2500&pause=1000&width=435&lines=Felipe+Silva;Intelligent+Automation;Developer+%26+Analyst)](https://git.io/typing-svg)
-   
-</p>
+<!-- Introduce myself section -->
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=32&duration=2500&pause=1000&vCenter=true&width=500&lines=Felipe+Silva;Intelligent+Automation;Developer+%26+Analyst" />
+  </a>
+  <p><em>Turning complex processes into simple, scalable automation and software tools.</em></p>
+</div>
 
----
+<!-- Socialmedia section -->
 
-I'm passionate about leveraging technology to create innovative solutions and streamline processes. With a strong background in Robotic Process Automation (RPA) and web development, I'm constantly exploring new ways to enhance efficiency and productivity through intelligent automation.
-
-<div id="badges">
+<div>
   <a href="https://www.linkedin.com/in/and3sil4/">
-    <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="linkedin-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/>
   </a>
   <a href="mailto:and3felipe@gmail.com">
-    <img src="https://img.shields.io/twitter/url?label=gmail&logo=gmail&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="gmail-badge">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat"/>
   </a>
   <a href="https://twitter.com/AFelipe_Silva3">
-    <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="twitter-badge">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"/>
   </a>
   <a href="https://medium.com/@and3felipe">
-    <img src="https://img.shields.io/twitter/url?label=medium&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fmail.google.com" alt="medium-badge">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat"/>
   </a>
 </div>
 
----
+### About me
+
+- RPA Developer specialized in **Automation Anywhere + Python**
+- Focused on **process optimization & intelligent automation**
+- Background in **web development and system integration**
+- Always exploring ways to improve efficiency at scale
+
+**Current focus:** RPA • Python tooling • Process automation architecture
+
+### Tech Stack
 
 <div>
-  <h3>Tech stack</h3>
-
-  [![Languages](https://skillicons.dev/icons?i=python,django,java,spring,javascript,nodejs,react,astro,tailwind,mysql,mongodb,postman,linux,windows,vim,powershell,git,gitlab,github,figma,docker,discord)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=python,java,rust,docker,git,bash,github,linux,mysql,postgres" />
 
 </div>
 
----
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67466c605434bf319a392d0d?variant=dark&roadmaps=frontend%2Cpython%2Cgolang)](https://roadmap.sh)
-
----
-
-<div align="start">
-
-  <a href="https://github.com/and3sil4/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=and3sil4" />
-  </a>
-  <a href="https://github.com/and3sil4/">
-    <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=and3sil4&layout=compact&langs_count=8&card_width=320" />
-  </a>
-
-</div>
-
----
-
-<div>
-  <h3>Signature and style</h3>
-
-```txt
-ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ:
-▄████▄ ███  ██ ████▄  ████▄ ▄█████ ██ ██    ██  ██ 
-██▄▄██ ██ ▀▄██ ██  ██  ▄▄██ ▀▀▀▄▄▄ ██ ██    ▀█████ 
-██  ██ ██   ██ ████▀  ▄▄▄█▀ █████▀ ██ ██████    ██ 
-ɪ ᴛʜɪɴᴋ, ᴛʜᴇʀᴇꜰᴏʀᴇ ɪ ᴀᴍ 🗿
-```
-- [Ascii style](https://patorjk.com/software/taag/#p=display&f=ANSI+Compact&t=AND3SIL4&x=none&v=4&h=4&w=80&we=false)
-- [Font style](https://tools.picsart.com/text/font-generator/)
-</div>
-
----
-
-<div align="start">
-  
-   *Last edited - December 03, 2025*
-  
-</div>
